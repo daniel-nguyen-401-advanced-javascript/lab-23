@@ -5,7 +5,7 @@ In this lab, you will be creating an application similar to Postman, called “R
 ## Links
     
 - [Code Sandbox](https://codesandbox.io/s/quizzical-rain-8whb4?file=/src/styles.scss)
-- [Netlify Deployment](https://naughty-villani-af0726.netlify.app)
+- [Netlify Deployment](https://csb-8whb4.netlify.app)
     
 ## Challenge
     
